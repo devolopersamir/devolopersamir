@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Samir 
 #### Cyber Security & Programmer 
-![Cyber Security & Programmer ](https://www.facebook.com/photo.php?fbid=347323411182603&set=a.110364364878510&type=3&mibextid=b1r3HaZxQ2aOKKJt)
+![Cyber Security & Programmer ]("https://www.facebook.com/photo.php?fbid=335913315656946&set=a.110364364878510&type=3&app=fbl")
 
 
 I'm Samir Talukder Apurbo. I'm a Cyber Security Specialist & Programmer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I like to solve real-worlds problems. Im Strategic, goal-ortained and always work with an existing goal. Over the passed years, I Slove 100+ problem's and I have minimum 2Years Experience. I Pride myself on doing quality work and maintain excellent communication. Most of the work i work with Cyber Security but some language i enjoy working with "Python&Ruby".
