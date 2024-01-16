@@ -10,9 +10,14 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;CYBER+SAMIR+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
-``
+```༊আফসোস•
  
-•I'm Samir Talukder Apurbo. I'm a Cyber Security Specialist & Programmer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I like to solve real-worlds problems. Im Strategic, goal-ortained and always work with an existing goal. Over the passed years, I Slove 100+ problem's and I have minimum 2Years Experience. I Pride myself on doing quality work and maintain excellent communication. Most of the work i work with Cyber Security but some language i enjoy working with "Python&Ruby".
+•I'm Samir Talukder Apurbo. I'm a Cyber Security Specialist & Programmer.
+ I have a passion for learning and sharing my knowledge with others as publicly as possible.
+ I like to solve real-worlds problems. Im Strategic, goal-ortained and always work with an existing goal.
+ Over the passed years, I Slove 100+ problem's and I have minimum 2Years Experience.
+ I Pride myself on doing quality work and maintain excellent communication. 
+Most of the work i work with Cyber Security but some language i enjoy working with "Python&Ruby".
 
 Skills: HTML / CSS / PYTHON / RUBY / JS࿐
  
@@ -20,7 +25,7 @@ Skills: HTML / CSS / PYTHON / RUBY / JS࿐
     
  
 ```
-[![IMG-20230929-230816.png](https://i.postimg.cc/fW2sHVYL/IMG-20230929-230816.png)](https://postimg.cc/K4MCjvqS)
+[![IMG-20231127111624.png](https://i.postimg.cc/hGrKNnR6/20231127-111624.png)](https://postimg.cc/SXn0zwsf)
  
 </p>
  
@@ -38,27 +43,27 @@ Skills: HTML / CSS / PYTHON / RUBY / JS࿐
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 👑 𝐍𝐀𝐌𝐄:- Md.Samir Talukder Apurbo 
+- 👑 𝐍𝐀𝐌𝐄:- 𝐒𝐚𝐦𝐢𝐫 𝐓𝐚𝐥𝐮𝐤𝐝𝐞𝐫
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 👑 𝐀𝐆𝐄:- 13/14
+- 👑 𝐀𝐆𝐄:- 𝟏𝟒/𝟏𝟓
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 👑 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- BINDUBASINI GOVT. BOYS HIGH SCHOOL 
+- 👑 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- 𝐁𝐢𝐧𝐝𝐮𝐛𝐬𝐢𝐧𝐢 𝐆𝐨𝐯𝐭. 𝐁𝐨𝐲𝐬 𝐇𝐢𝐠𝐡 𝐒𝐜𝐡𝐨𝐨𝐥 𝐓𝐚𝐧𝐠𝐚𝐢𝐥
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 👑 𝐋𝐎𝐕𝐄 :- CYBER SECURITY & CODING 
+- 👑 𝐋𝐎𝐕𝐄 :- 𝙀𝙩𝙝𝙞𝙘𝙖𝙡 𝙃𝙖𝙘𝙠𝙞𝙣𝙜
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 👑 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- MY OWN RESPONSIBLE 
+- 👑 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 :- 𝐏𝐲𝐭𝐡𝐨𝐧,𝐑𝐮𝐛𝐲,𝐇𝐓𝐌𝐋,𝐂𝐒𝐒
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 👑 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- ISLAM (ALHAMDULILLAH)
+- 👑 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- ISLAM 
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
