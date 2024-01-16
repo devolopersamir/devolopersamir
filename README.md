@@ -9,8 +9,8 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;My+R1F4T+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
-```༊আফসোস•
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;CYBER+SAMIR+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
+``
  
 •I'm Samir Talukder Apurbo. I'm a Cyber Security Specialist & Programmer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I like to solve real-worlds problems. Im Strategic, goal-ortained and always work with an existing goal. Over the passed years, I Slove 100+ problem's and I have minimum 2Years Experience. I Pride myself on doing quality work and maintain excellent communication. Most of the work i work with Cyber Security but some language i enjoy working with "Python&Ruby".
 
