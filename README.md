@@ -25,6 +25,14 @@ Skills: HTML / CSS / PYTHON / RUBY / JS࿐
     
  
 ```
+
+<h2 align="center">GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+
+<h3 align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+
+<h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400"></a>
+  
+
 [![IMG-20231127111624.png](https://i.postimg.cc/hGrKNnR6/20231127-111624.png)](https://postimg.cc/SXn0zwsf)
  
 </p>
