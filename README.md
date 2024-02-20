@@ -36,7 +36,16 @@ Skills: HTML / CSS / PYTHON / RUBY / JS࿐
 <h3 align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
 
 <h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400"></a>
-  
+
+<h2 align="center"><i> Connect With Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </i></h2>
+
+<p align="center">
+<a href="https://t.me/cybersamir"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=devoloper.samir@hotmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.com/cybersamir"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-728aA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/cybersamir"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a><br>
+
+<p align="center"><a href="https://twitter.com/samirtalukder1998"><img title="Twitter" src="https://img.shields.io/badge/Twitter-1E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/cybersamir"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.devoloper.samjr"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+</a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"></br></p>
+
+  <br>
 
 [![IMG-20231127111624.png](https://i.postimg.cc/hGrKNnR6/20231127-111624.png)](https://postimg.cc/SXn0zwsf)
  
