@@ -10,7 +10,12 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;CYBER+SAMIR+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
-```༊আফসোস•
+
+<p align="center">
+  <a href="https://github.com/U7P4L-IN"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Ethical%20Hacker;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+```
  
 •I'm Samir Talukder Apurbo. I'm a Cyber Security Specialist & Programmer.
  I have a passion for learning and sharing my knowledge with others as publicly as possible.
