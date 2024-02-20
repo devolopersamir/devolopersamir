@@ -47,6 +47,30 @@ Skills: HTML / CSS / PYTHON / RUBY / JS࿐
 
   <br>
 
+  <h2 align="center"><i>My Language & Skill <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </i></h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,bash" /></br>
+    <img src="https://skillicons.dev/icons?i=github,swift,python,go,react,kotlin,mysql,nextjs" /></br>
+    <img src="https://skillicons.dev/icons?i=flutter,nix,nodejs,nuxtjs,php,ruby,swift,typescript,vscode" />  
+  </a></p>
+ 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+&nbsp; <p align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</p>
+
+<h3 align="center"><b>🏆 GitHub Trophies</b></h3>
+
+
+<!-- HacktoberFest Badges -->
+
+<p align="center"><img src="https://holopin.me/amajaying3" width="100%"/>
+</p>
+
+
 [![IMG-20231127111624.png](https://i.postimg.cc/hGrKNnR6/20231127-111624.png)](https://postimg.cc/SXn0zwsf)
  
 </p>
